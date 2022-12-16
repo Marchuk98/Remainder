@@ -4,7 +4,7 @@ let b = 5;
 let result = a % b;
 
 if(result !=0){
-   console.log('делиться с остатком' + result);
+   console.log('делится с остатком' + result);
 }else{
-console.log('делиться результат деления' + (a/b));
+console.log('делится результат деления' + (a/b));
 }
